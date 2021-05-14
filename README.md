@@ -39,7 +39,7 @@ $ git clone https://github.com/JorgeFPeres/Stone_Currency.git  && cd Stone-Curre
 ## 💻 Project
 
 This is a amazing effect play/pause button based on the Neumorphic design concept.
-You can watch a tutorial at my youtube channel [here](https://www.youtube.com/watch?v=LvE3hRJc1g0)
+- Watch a tutorial at my youtube channel clicking [here](https://www.youtube.com/watch?v=LvE3hRJc1g0)
 
 
 ## 🔖 Layout
